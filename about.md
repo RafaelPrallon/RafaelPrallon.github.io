@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Engineer and Ruby developer Graduated in Electronics and Computing Engineering at UFRJ.
+Knows of the concepts behind both DevOps and cloud computing.
+During college acted with extension, specially focused in education.
+Some of the projects done by me:
+<ul>
+  <li><a href= "https://alfa-blog-rpmx.herokuapp.com"> Alfa Blog: A blog application using rails </a></li>
+  <li><a href = "https://finance-tracker-rpmx.herokuapp.com"> Finance tracker: A social network for stock monitoring</a></li>
+</ul>
