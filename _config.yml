@@ -22,7 +22,6 @@ url: "https://rafaelprallon.github.io" # the base hostname & protocol for your s
 twitter_username: rafaelprallon
 linkedin_username: rafaelprallon
 github_username:  RafaelPrallon
-discus.shortname: https://rafaelprallon-github-io
 
 # Build settings
 markdown: kramdown
