@@ -2,10 +2,10 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 5px solid $indigo-color;
+  border-bottom: 1px solid $indigo-color-light;
   min-height: $spacing-unit * 1.865;
-
+  background: $grey-color-light;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
@@ -51,7 +51,7 @@
     top: 9px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border: 1px solid $indigo-color-light;
     border-radius: 5px;
     text-align: right;
 
@@ -106,8 +106,9 @@
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $indigo-color;
   padding: $spacing-unit 0;
+  background: $grey-color-light;
 }
 
 .footer-heading {
@@ -123,7 +124,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: $indigo-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -215,6 +216,7 @@
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
+  color: $indigo-color;
 
   @include media-query($on-laptop) {
     @include relative-font-size(2.25);
@@ -223,7 +225,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-
+  border-radius: 10px 25px;
+  border: 1px solid $indigo-color;
   h2 {
     @include relative-font-size(2);
 

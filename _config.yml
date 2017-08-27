@@ -18,10 +18,11 @@ email: rafaelprallon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The programming portfolio of Rafael Prallon
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rafaelprallon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rafaelprallon
 linkedin_username: rafaelprallon
 github_username:  RafaelPrallon
+discus.shortname: https://rafaelprallon-github-io
 
 # Build settings
 markdown: kramdown
