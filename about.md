@@ -6,7 +6,7 @@ permalink: /about/
 
 Engineer and Ruby developer Graduated in Electronics and Computing Engineering at UFRJ.
 Knows of the concepts behind both DevOps and cloud computing.
-During college acted with extension, specially focused in education.
+During college acted with extension, especially focused in education.
 Some of the projects done by me that are in production:
 
 - <a href= "https://alfa-blog-rpmx.herokuapp.com"> Alfa Blog: A blog application using rails </a>
